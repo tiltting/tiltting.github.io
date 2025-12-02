@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Contact Us"
+permalink: /Contact_Us/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Contact Us
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
