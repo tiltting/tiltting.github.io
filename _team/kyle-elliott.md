@@ -5,7 +5,7 @@ collection: team
 ---
 
 
-<img src="/images/anthony-haberman.jpg" alt="Anthony Haberman" width="384" height="384">
+<img src="/images/kyle-elliot.jpg" alt="Kyle Elliot" width="384" height="384">
 
 
 
