@@ -9,9 +9,9 @@ collection: team
 
 
 **Meteorological Accolades**
-*Millersville AMS Student Chapter member
-*Member of Millersville Balloon Launch Team
-*CWS Forecaster for 4 semesters
+* Millersville AMS Student Chapter member
+* Member of Millersville Balloon Launch Team
+* CWS Forecaster for 4 semesters
 
 
 **Biography**  
