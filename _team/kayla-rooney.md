@@ -15,7 +15,7 @@ collection: team
 * Historian of Millersville University’s AMS Student Chapter
 * Lead of Millersville University’s Weather Balloon Launch Team
 * Certified SKYWARN spotter
-*CERT certified
+* CERT certified
 
 
 **Biography**  

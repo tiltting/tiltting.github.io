@@ -9,10 +9,10 @@ collection: team
 
 
 **Meteorological Accolades**
-*Millersville University Class of 2028 Meteorology Major
-*Member of Millersville University’s American Meteorological Society Student Chapter (MU-AMS)
-*Member of the Millersville University Weather Balloon Launch Team 
-*Millersville Campus Weather Service Assistant Forecaster Fall 2024
+* Millersville University Class of 2028 Meteorology Major
+* Member of Millersville University’s American Meteorological Society Student Chapter (MU-AMS)
+* Member of the Millersville University Weather Balloon Launch Team 
+* Millersville Campus Weather Service Assistant Forecaster Fall 2024
 
 
 **Biography**  
